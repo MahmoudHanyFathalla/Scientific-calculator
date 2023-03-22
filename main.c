@@ -253,7 +253,7 @@ void chek_name(int x, int x_brac)
 int priority(char infix)
 {
     // I Assisted Ahmed Osama in this part with his code
-    // I Assiste
+   
     if (infix == '^')
         return 5;
     else if (infix == '*' || infix == '/')
