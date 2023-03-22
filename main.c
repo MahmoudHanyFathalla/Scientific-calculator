@@ -116,7 +116,7 @@ int isempty()
 int brackets(Stack s, char array[], int size)
 {
 
-
+    // I Assiste
     for (int i = 0; i <= size; i++)
     {
         char it = array[i];
