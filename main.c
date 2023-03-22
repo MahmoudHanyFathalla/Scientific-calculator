@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <string.h>
 #include <math.h>
-// I Assiste
+
 int counter = 0;
 struct Stack
 {
