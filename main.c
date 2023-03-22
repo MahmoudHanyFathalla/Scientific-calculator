@@ -223,6 +223,7 @@ int check(char array[], int size)
 }
 void chek_name(int x, int x_brac)
 {
+    // I Assiste
     if (x == -1)
     {
         printf("Error : Operator is in the wrong position. \n");
