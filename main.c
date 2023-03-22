@@ -277,9 +277,7 @@ void rev(char* str)
 
 char* inf_to_pst(Stack s, char infix[], int sizee, char arrn[])
 {
-    // I Assisted Mohab Zakaria in the operators section of his code.
-    // I Assisted Ahmed Amr in the brackets section of his code.
-    // I Assisted Ahmed Othman in his code but we failed to make it work.
+   
     char item;
     int z = 0;
     for (int i = 0; i < sizee; i++)
